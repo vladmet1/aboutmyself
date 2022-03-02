@@ -75,7 +75,7 @@ p {
   height: 650px;
   padding-top: 100px;
 
-  background: #000000 url("img/photo4.jpg") center no-repeat;
+  background: #000000 url("photo4.jpg") center no-repeat;
   background-size: cover;
 }
 
