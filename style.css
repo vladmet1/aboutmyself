@@ -75,7 +75,7 @@ p {
   height: 650px;
   padding-top: 100px;
 
-  background: #000000 url("photo4.jpg") center no-repeat;
+  background: #000000 url("img/photo4.jpg") center no-repeat;
   background-size: cover;
 }
 
@@ -363,7 +363,7 @@ p {
   }
 
   .skills__text {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     text-align: center;
   }
 
@@ -377,14 +377,17 @@ p {
     text-align: center;
   }
 
-  .btn.btn--black {
-    margin: 30px 60px;
-    display: block;
+  .button__content {
     text-align: center;
+    margin: 0 auto 30px;
+  }
+
+  .item__content.right {
+    margin: 0;
   }
 
   .content__center {
-    margin-right: 55px;
     text-align: center;
+    margin: 0 auto;
   }
 }
